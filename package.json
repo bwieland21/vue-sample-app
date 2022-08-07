@@ -1,0 +1,8 @@
+{
+  "name": "vue-sample-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bwieland21/vue-sample-app.git",
+  "author": "Brennan Wieland <bwieland21@gmail.com>",
+  "license": "MIT"
+}
